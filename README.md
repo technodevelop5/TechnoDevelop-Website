@@ -1,2 +1,2 @@
 # TechnoDevelop-Website
-This is our Company Website
+This is our Team Website
